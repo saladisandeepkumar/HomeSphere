@@ -2,7 +2,7 @@
 # HomeSphere: Smart Home Automation System
 
 <div align="center">
-  <img src="assets/readmeFiles/Home-Fi.png" width="700" alt="Home-Fi Logo">
+  <img src="Home-Fi.png" width="700" alt="Home-Fi Logo">
 
   [![Flutter](https://img.shields.io/badge/Flutter-2.0+-blue.svg)](https://flutter.dev/)
   [![ESP32](https://img.shields.io/badge/ESP32-Compatible-brightgreen.svg)](https://www.espressif.com/)
